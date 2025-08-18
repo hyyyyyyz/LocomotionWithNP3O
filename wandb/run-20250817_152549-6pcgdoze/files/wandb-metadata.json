@@ -1,0 +1,20 @@
+{
+    "os": "Linux-6.8.0-65-generic-x86_64-with-glibc2.10",
+    "python": "3.8.10",
+    "heartbeatAt": "2025-08-17T07:25:53.453735",
+    "startedAt": "2025-08-17T07:25:49.355925",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 4070 Laptop GPU",
+    "gpu_count": 1,
+    "cpu_count": 32,
+    "cuda": null,
+    "args": [
+        "--task=go2N3poHim"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "host": "jackson",
+    "username": "jackson",
+    "executable": "/home/jackson/miniconda3/envs/isaacgym/bin/python"
+}
